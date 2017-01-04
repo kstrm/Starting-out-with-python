@@ -1,4 +1,4 @@
-# Getting going
+# Getting going with Python and Jupyter notebooks
 
 ## The examples
 

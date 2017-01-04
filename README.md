@@ -1,7 +1,7 @@
 # Helpful Links
 
 **Running and using python and Jupyter notebooks in the cloud**
-- SageMathCloud is a fantastic free resource for collaborative coding in python and many other languages. Using python and/or jupyter notebooks on SageMathCloud is a fantastic place to start.
+- [SageMathCloud](https://sagemathcloud.com) is a fantastic free resource for collaborative coding in python and many other languages. Using python and/or jupyter notebooks on SageMathCloud is a fantastic place to start.
 
 Getting and running python on your local computer
 * Continuum Analytics “Anaconda” distribution: https://www.continuum.io/downloads 

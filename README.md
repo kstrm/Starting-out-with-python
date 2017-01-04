@@ -19,12 +19,12 @@ To run them, you will either need to use a cloud-based computing service (such a
 
 ## Ohter Helpful Links
 
-** Plotting **
+**Plotting**
 * Basic… start here: [Matplotlib](http://matplotlib.org)
 * Interactive plotting: [Bokeh](http://bokeh.pydata.org/en/latest/)
 * Plotting Pandas dataframes: [link](http://pandas.pydata.org/pandas-docs/stable/visualization.html)
 
-** Tutorials **
+**Tutorials**
 * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.A793bLk)
 * [Pandas Tutorial: DataFrames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#gs.D1109lg)
 * [Basic features of SageMathCloud](https://www.youtube.com/watch?v=_ff2HdME8MI) (note.. the video is long ≈ 1 hr)

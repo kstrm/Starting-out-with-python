@@ -28,5 +28,9 @@ Note, to view the interactive plots in the example "Derivatives.ipynb", you will
 
 **Tutorials**
 * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.A793bLk)
+* Scientific Python Lectures ([All lectures](https://github.com/jrjohansson/scientific-python-lectures)). Key lectures:
+  * [Numpy](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb)
+  * [Scipy](http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb)
+  * [Plotting](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)
 * [Pandas Tutorial: DataFrames in Python](https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#gs.D1109lg)
 * [Basic features of SageMathCloud](https://www.youtube.com/watch?v=_ff2HdME8MI) (note.. the video is long ≈ 1 hr)

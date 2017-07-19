@@ -22,7 +22,7 @@ Note, to view the interactive plots in the example "Derivatives.ipynb", you will
 ## Ohter Helpful Links
 
 **Plotting**
-* Basic… start here: [Matplotlib](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb)
+* Basic… start here: [Matplotlib](https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb). For more examples see [Chapter 4](https://github.com/jrjohansson/numerical-python-book-code/blob/master/ch04-code-listing.ipynb) Robert Johansson's Numerical Python.
 * Interactive plotting: [Bokeh](http://bokeh.pydata.org/en/latest/)
 * Plotting Pandas dataframes: [link](http://pandas.pydata.org/pandas-docs/stable/visualization.html)
 

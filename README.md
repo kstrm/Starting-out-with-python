@@ -1,14 +1,18 @@
 # Getting going with Python and Jupyter notebooks
 
+## Scientific python
+
+Using Python with packages such as Numpy, Scipy, Pandas, and Matplotlib is a powerful and easy way to perform scientific calculations and data analysis. And, coupling scientific python with Jupyter notebooks makes for a fantastic way to both (1) perform calculation and (2) communicate your results and methods in an effective format. The merging of computations and communication with the the python + Jupyter notebook paring makes the combo and excellent choice for research, homework, and playing around with numbers and functions. The purpose of this repo is to help get students up and running with the basics of using python and Jupyter notebooks.
+
 ## The examples
 
-Above are a few Jupyter notebooks with examples that highlight basic commands in numpy, scipy, and matplotlob for simple procedures such as:
+Above are a few Jupyter notebooks with examples that highlight basic commands in Numpy, Scipy, and Matplotlib for simple procedures such as:
 * indexing, arrays, and loops
 * ways to approximate a derivative
 * solving functions
 * plotting
 
-You can view the files simply by clicking on the file link in the directory above. To run the notebooks, you will either need to use a cloud-based computing service (such as SageMathCloud, see below), or you will need to install a python distribution on your computer (below you will find information on how to install on your local machine). In you are going to be using python, then I strongly suggest you install it on your local machine.
+You can view the files simply by clicking on the file link in the directory above. To run the notebooks, you will either need to use a cloud-based computing service (such as SageMathCloud, see below), or you will need to install a python distribution on your computer (below you will find information on how to install python on your local machine). If you will be using python regularly, then I strongly suggest you install it on your local machine.
 
 Note, to view the interactive plots in the example "03 Derivatives.ipynb", you will need to view it through the [nbviewer](http://nbviewer.jupyter.org/) at Jupyter.org. You can do so by [clicking here](http://nbviewer.jupyter.org/github/kstrm/Starting-out-with-python/blob/master/Derivatives.ipynb), or by clicking on the file of interest, copying the url from your browser, and then pasting it into the [nbviewer](http://nbviewer.jupyter.org/).
 
@@ -19,7 +23,7 @@ Note, to view the interactive plots in the example "03 Derivatives.ipynb", you w
 
 **On your local computer**
 * Continuum Analytics “Anaconda” distribution: https://www.continuum.io/downloads
-* To use, you can run/execute python commands with the terminal, an [ipython terminal](http://ipython.org/), the [Spyper IDE](https://pythonhosted.org/spyder/) (a matlab like environment), or my favorite (for short computations and data analysis) - [Jupyter notebooks](http://jupyter.org/).
+* To use, you can run/execute python commands with the terminal, an [ipython terminal](http://ipython.org/), the [Spyper IDE](https://pythonhosted.org/spyder/) (a Matlab like environment), or my favorite (for short computations and data analysis) - [Jupyter notebooks](http://jupyter.org/).
 
 ## Other Helpful Links
 

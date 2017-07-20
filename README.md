@@ -2,7 +2,7 @@
 
 ## Scientific python
 
-Using Python with packages such as Numpy, Scipy, Pandas, and Matplotlib is a powerful and easy way to perform scientific calculations and data analysis. And, coupling scientific python with Jupyter notebooks makes for a fantastic way to both (1) perform calculation and (2) communicate your results and methods in an effective format. The merging of computations and communication with the the python + Jupyter notebook paring makes the combo and excellent choice for research, homework, and playing around with numbers and functions. The purpose of this repo is to help get students up and running with the basics of using python and Jupyter notebooks.
+Using Python with packages such as Numpy, Scipy, Pandas, Matplotlib, etc. (i.e., Scientific Python) is a powerful and easy way to perform scientific calculations and data analysis. And, coupling scientific Python with Jupyter notebooks makes for a fantastic way to both (1) perform calculation and (2) communicate your results and methods in an effective format. The merging of computations and communication with the the Python + Jupyter notebook paring makes the combo and excellent choice for research, homework, and playing around with numbers and functions. The purpose of this repository is to help get students up and running with the basics of using Python and Jupyter notebooks for science calculations.
 
 ## The examples
 
@@ -12,14 +12,14 @@ Above are a few Jupyter notebooks with examples that highlight basic commands in
 * solving functions
 * plotting
 
-You can view the files simply by clicking on the file link in the directory above. To run the notebooks, you will either need to use a cloud-based computing service (such as SageMathCloud, see below), or you will need to install a python distribution on your computer (below you will find information on how to install python on your local machine). If you will be using python regularly, then I strongly suggest you install it on your local machine.
+You can view the files simply by clicking on the file link in the directory above. To run the notebooks, you will either need to use a cloud-based computing service (such as CoCalc, see below), or you will need to install a python distribution on your computer (below you will find information on how to install python on your local machine). If you will be using python regularly, then I strongly suggest you install it on your local machine.
 
 Note, to view the interactive plots in the example "03 Derivatives.ipynb", you will need to view it through the [nbviewer][1] at Jupyter.org. You can do so by [clicking here][2], or by clicking on the file of interest, copying the url from your browser, and then pasting it into the [nbviewer][3].
 
 ## Running python
 
 **In the cloud**
-- [SageMathCloud][4] is a fantastic free resource for collaborative coding in python and many other languages. Using python and/or jupyter notebooks on SageMathCloud is a perfect place to start.
+* [CoCalc][4] (formerly SageMathCloud) is a fantastic free resource for collaborative coding in python and many other languages. Using Python and/or Jupyter notebooks on CoCalc is a perfect place to start.
 
 **On your local computer**
 * Continuum Analytics “Anaconda” distribution: https://www.continuum.io/downloads
@@ -35,16 +35,16 @@ Note, to view the interactive plots in the example "03 Derivatives.ipynb", you w
 **Tutorials**
 * [Jupyter Notebook Tutorial: The Definitive Guide][12]
 * Scientific Python Lectures ([All lectures][13]). Key lectures:
-  * [Numpy][14]
-  * [Scipy][15]
-  * [Plotting][16]
+  - [Numpy][14]
+  - [Scipy][15]
+  - [Plotting][16]
 * [Pandas Tutorial: DataFrames in Python][17]
 * [Basic features of SageMathCloud][18] (note.. the video is long ≈ 1 hr)
 
 [1]:	http://nbviewer.jupyter.org/
-[2]:	http://nbviewer.jupyter.org/github/kstrm/Starting-out-with-python/blob/master/03%20Derivatives.ipynb
+[2]:	http://nbviewer.jupyter.org/github/kstrm/Starting-out-with-python/blob/master/Derivatives.ipynb
 [3]:	http://nbviewer.jupyter.org/
-[4]:	https://sagemathcloud.com
+[4]:	https://cocalc.com
 [5]:	http://ipython.org/
 [6]:	https://pythonhosted.org/spyder/
 [7]:	http://jupyter.org/

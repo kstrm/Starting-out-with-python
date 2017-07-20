@@ -35,9 +35,9 @@ Note, to view the interactive plots in the example "03 Derivatives.ipynb", you w
 **Tutorials**
 * [Jupyter Notebook Tutorial: The Definitive Guide][12]
 * Scientific Python Lectures ([All lectures][13]). Key lectures:
-	  - [Numpy][14]
-	  - [Scipy][15]
-	  - [Plotting][16]
+	* [Numpy][14]
+	* [Scipy][15]
+	* [Plotting][16]
 * [Scipy Lecture Notes: One document to learn numerics, science, and data with Python][17] 
 * [Pandas Tutorial: DataFrames in Python][18]
 * [Basic features of SageMathCloud][19] (note.. the video is long ≈ 1 hr)

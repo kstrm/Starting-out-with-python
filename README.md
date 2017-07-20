@@ -2,13 +2,15 @@
 
 ## The examples
 
-Above are two Jupyter notebook examples highlighting basic commands in numpy for simple procedures such as:
+Above are a few Jupyter notebooks with examples that highlight basic commands in numpy, scipy, and matplotlob for simple procedures such as:
 * indexing, arrays, and loops
 * ways to approximate a derivative
+* solving functions
+* plotting
 
 To run them, you will either need to use a cloud-based computing service (such as SageMathCloud, see below), or install a python distribution on your computer (below you will find information on how to do this).
 
-Note, to view the interactive plots in the example "Derivatives.ipynb", you will need to view it through the [nbviewer](http://nbviewer.jupyter.org/) at Jupyter.org. You can do so by [clicking here](http://nbviewer.jupyter.org/github/kstrm/Starting-out-with-python/blob/master/Derivatives.ipynb)
+Note, to view the interactive plots in the example "03 Derivatives.ipynb", you will need to view it through the [nbviewer](http://nbviewer.jupyter.org/) at Jupyter.org. You can do so by [clicking here](http://nbviewer.jupyter.org/github/kstrm/Starting-out-with-python/blob/master/Derivatives.ipynb)
 
 ## Running python
 

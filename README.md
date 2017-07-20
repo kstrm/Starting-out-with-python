@@ -35,11 +35,12 @@ Note, to view the interactive plots in the example "03 Derivatives.ipynb", you w
 **Tutorials**
 * [Jupyter Notebook Tutorial: The Definitive Guide][12]
 * Scientific Python Lectures ([All lectures][13]). Key lectures:
-  - [Numpy][14]
-  - [Scipy][15]
-  - [Plotting][16]
-* [Pandas Tutorial: DataFrames in Python][17]
-* [Basic features of SageMathCloud][18] (note.. the video is long ≈ 1 hr)
+	  - [Numpy][14]
+	  - [Scipy][15]
+	  - [Plotting][16]
+* [Scipy Lecture Notes: One document to learn numerics, science, and data with Python][17] 
+* [Pandas Tutorial: DataFrames in Python][18]
+* [Basic features of SageMathCloud][19] (note.. the video is long ≈ 1 hr)
 
 [1]:	http://nbviewer.jupyter.org/
 [2]:	http://nbviewer.jupyter.org/github/kstrm/Starting-out-with-python/blob/master/Derivatives.ipynb
@@ -57,5 +58,6 @@ Note, to view the interactive plots in the example "03 Derivatives.ipynb", you w
 [14]:	http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-2-Numpy.ipynb
 [15]:	http://nbviewer.jupyter.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-3-Scipy.ipynb
 [16]:	https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
-[17]:	https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#gs.D1109lg
-[18]:	https://www.youtube.com/watch?v=_ff2HdME8MI
+[17]:	http://www.scipy-lectures.org
+[18]:	https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#gs.D1109lg
+[19]:	https://www.youtube.com/watch?v=_ff2HdME8MI

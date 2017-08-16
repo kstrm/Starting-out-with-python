@@ -43,7 +43,7 @@ Note, to view the interactive plots in the example "03 Derivatives.ipynb", you w
 * [Basic features of SageMathCloud][19] (note.. the video is long ≈ 1 hr)
 
 [1]:	http://nbviewer.jupyter.org/
-[2]:	http://nbviewer.jupyter.org/github/kstrm/Starting-out-with-python/blob/master/Derivatives.ipynb
+[2]:	http://nbviewer.jupyter.org/github/kstrm/Starting-out-with-python/blob/master/03%20Derivatives.ipynb
 [3]:	http://nbviewer.jupyter.org/
 [4]:	https://cocalc.com
 [5]:	http://ipython.org/

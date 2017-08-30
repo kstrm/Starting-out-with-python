@@ -2,7 +2,7 @@
 
 ## Scientific python
 
-Using Python with packages such as Numpy, Scipy, Pandas, Matplotlib, etc. (i.e., Scientific Python) is a powerful and easy way to perform scientific calculations and data analysis. And, coupling scientific Python with Jupyter notebooks makes for a fantastic way to both (1) perform calculation and (2) communicate your results and methods in an effective format. The merging of computations and communication with the the Python + Jupyter notebook paring makes the combo and excellent choice for research, homework, and playing around with numbers and functions. The purpose of this repository is to help get students up and running with the basics of using Python and Jupyter notebooks for science calculations.
+Using Python with packages such as Numpy, Scipy, Pandas, Matplotlib, etc. (i.e., Scientific Python) is a powerful and easy way to perform scientific calculations and data analysis. Furthermore, coupling scientific Python with Jupyter notebooks makes for a fantastic way to both (1) perform calculation and (2) communicate your results and methods in an effective format. The merging of computations and communication with the Python + Jupyter notebook paring makes the combo and excellent choice for research, homework, and playing around with numbers and functions. The purpose of this repository is to help get students up and running with the basics of using Python and Jupyter notebooks for science calculations.
 
 ## The examples
 

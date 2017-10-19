@@ -33,7 +33,7 @@ Note, to view the interactive plots in the example "03 Derivatives.ipynb", you w
 * Plotting Pandas dataframes: [link][11]
 
 **Tutorials**
-* [Python Tutorial for Absolute Beginners][http://stackabuse.com/python-tutorial-for-absolute-beginners/]
+* [Python Tutorial for Absolute Beginners](http://stackabuse.com/python-tutorial-for-absolute-beginners/)
 * [Jupyter Notebook Tutorial: The Definitive Guide][12]
 * Scientific Python Lectures ([All lectures][13]). Key lectures:
 	* [Numpy][14]

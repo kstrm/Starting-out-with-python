@@ -42,7 +42,7 @@ Note, to view the interactive plots in the example "03 Derivatives.ipynb", you w
 * [Scipy Lecture Notes: One document to learn numerics, science, and data with Python][17]
 * [Pandas Tutorial: DataFrames in Python][18]
 * [Basic features of SageMathCloud][19] (note.. the video is long ≈ 1 hr)
-* [Python Weekly](https://www.pythonweekly.com) a weekly email newsletter "featuring curated news, articles, new releases, jobs etc related to Python." 
+* [Python Weekly](https://www.pythonweekly.com) - a weekly email newsletter "featuring curated news, articles, new releases, jobs etc related to Python." 
 
 [1]:	http://nbviewer.jupyter.org/
 [2]:	http://nbviewer.jupyter.org/github/kstrm/Starting-out-with-python/blob/master/03%20Derivatives.ipynb

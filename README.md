@@ -19,7 +19,7 @@ Note, to view the interactive plots in the example "03 Derivatives.ipynb", you w
 ## Running python
 
 **In the cloud**
-* [CoCalc][4] (formerly SageMathCloud) is a fantastic free resource for collaborative coding in python and many other languages. Using Python and/or Jupyter notebooks on CoCalc is a perfect place to start.
+* [CoCalc][4] (formerly SageMathCloud) is a good free resource for collaborative coding in python and many other languages. Using Python and/or Jupyter notebooks on CoCalc is a perfect place to start.
 
 **On your local computer**
 * Continuum Analytics “Anaconda” distribution: https://www.continuum.io/downloads

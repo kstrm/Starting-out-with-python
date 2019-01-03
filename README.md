@@ -36,6 +36,7 @@ Note, to view the interactive plots in the example "03c Derivatives-Boken.ipynb"
 **Tutorials**
 * [Python Tutorial for Absolute Beginners][14]
 * [Jupyter Notebook Tutorial: The Definitive Guide][15]
+* [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
 * Scientific Python Lectures ([All lectures][16]). Key lectures:
 	* [Numpy][17]
 	* [Scipy][18]

@@ -11,7 +11,7 @@ Using Python with packages such as Numpy, Scipy, Pandas, Matplotlib, etc. (i.e.,
 
 **On your local computer**
 * Continuum Analytics “Anaconda” distribution: https://www.continuum.io/downloads
-* To use, you can run/execute python commands with the terminal, an [ipython terminal][2], the [Spyper IDE][3] (a Matlab like environment), or my favorite (for short computations and data analysis) - [Jupyter notebooks][4] and [JupyterLab][5]. The examples in this repository are Jupyter notebooks.
+* To use, you can run/execute python commands with the terminal, an [ipython terminal][2], the [Spyder IDE][3] (a Matlab like environment), or my favorite (for short computations and data analysis) - [Jupyter notebooks][4] and [JupyterLab][5]. The examples in this repository are Jupyter notebooks.
 * If you are looking for a text editor, I suggest taking a look at [Atom][6].
 
 ## The examples

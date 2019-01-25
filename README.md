@@ -48,7 +48,7 @@ Note, to view the interactive plots in the example "03c Derivatives-Boken.ipynb"
 
 [1]:	https://cocalc.com
 [2]:	http://ipython.org/
-[3]:	https://pythonhosted.org/spyder/
+[3]:	https://www.spyder-ide.org/
 [4]:	http://jupyter.org/
 [5]:	https://jupyterlab.readthedocs.io/en/stable/
 [6]:	https://atom.io/

@@ -6,11 +6,15 @@ Using Python with packages such as Numpy, Scipy, Pandas, Matplotlib, etc. (i.e.,
 
 ## Running python
 
-**In the cloud ** (no need to install anything on your computer)
+**In the cloud **
+
 * Google's [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) (Colab) is a good free resource for collaborative, cloud-based computing. Using Python and Jupyter notebooks in Colab is a perfect place to start.
 * [CoCalc][1] (formerly SageMathCloud)
 
+A big plus associated with running Python and Jupyter notebooks in the cloud is that you don't need to install anything on your local machine. The downsides can be that you need to be connected to the internet, at times it can be slower, and that you have reduced freedom and customization available to you in your workflow.
+
 **On your local computer**
+
 * Continuum Analytics “Anaconda” distribution: https://www.continuum.io/downloads
 * To use, you can run/execute python commands with the terminal, an [ipython terminal][2], the [Spyder IDE][3] (a Matlab like environment), or my favorite (for short computations and data analysis) - [Jupyter notebooks][4] and [JupyterLab][5]. The examples in this repository are Jupyter notebooks.
 * If you are looking for a text editor, I suggest taking a look at [Atom][6].

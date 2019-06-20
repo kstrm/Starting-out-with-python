@@ -7,6 +7,7 @@ Using Python with packages such as Numpy, Scipy, Pandas, Matplotlib, etc. (i.e.,
 ## Running python
 
 **In the cloud**
+* Google's [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) (Colab). 
 * [CoCalc][1] (formerly SageMathCloud) is a good free resource for collaborative coding in python and many other languages. Using Python and/or Jupyter notebooks on CoCalc is a perfect place to start.
 
 **On your local computer**

@@ -30,7 +30,7 @@ Note, to view the interactive plots in the example "03c Derivatives-Boken.ipynb"
 
 **Plotting**
 * Basic… start here: [Matplotlib][10]. For more examples see [Chapter 4][11] Robert Johansson's Numerical Python.
-* [Matplotlib YouTube tutorial series](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=02db959750&e=510e6adfe6).
+* [Matplotlib YouTube tutorial series](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=02db959750&e=510e6adfe6)
 * Interactive plotting: [Bokeh][12]
 * Plotting Pandas dataframes: [link][13]
 

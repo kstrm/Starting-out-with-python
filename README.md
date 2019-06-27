@@ -33,7 +33,14 @@ Note, to view the interactive plots in the example "03c Derivatives-Boken.ipynb"
 
 ## Other Helpful Links
 
+**General**
+
+- [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+- [A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
+- [Python Weekly][23] - a weekly email newsletter "featuring curated news, articles, new releases, jobs etc related to Python." 
+
 **Plotting**
+
 * Basic… start here: [Matplotlib][10]. For more examples see [Chapter 4][11] Robert Johansson's Numerical Python.
 * [Matplotlib YouTube tutorial series](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=02db959750&e=510e6adfe6)
 * Interactive plotting: [Bokeh][12]
@@ -50,7 +57,6 @@ Note, to view the interactive plots in the example "03c Derivatives-Boken.ipynb"
 * [Scipy Lecture Notes: One document to learn numerics, science, and data with Python][20]
 * [Pandas Tutorial: DataFrames in Python][21]
 * [Basic features of SageMathCloud][22] (note.. the video is long ≈ 1 hr)
-* [Python Weekly][23] - a weekly email newsletter "featuring curated news, articles, new releases, jobs etc related to Python." 
 
 [1]:	https://cocalc.com
 [2]:	http://ipython.org/

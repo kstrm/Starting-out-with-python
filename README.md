@@ -45,6 +45,7 @@ Note, to view the interactive plots in the example "03c Derivatives-Boken.ipynb"
 * [Matplotlib YouTube tutorial series](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=02db959750&e=510e6adfe6)
 * Interactive plotting: [Bokeh][12]
 * Plotting Pandas dataframes: [link][13]
+* [How to Make a Scatter Plot in Python using Seaborn](https://www.marsja.se/how-to-make-a-scatter-plot-in-python-using-seaborn/)
 
 **Tutorials**
 * [Python Tutorial for Absolute Beginners][14]

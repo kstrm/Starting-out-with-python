@@ -9,7 +9,6 @@ Using Python with packages such as Numpy, Scipy, Pandas, Matplotlib, etc. (i.e.,
 **In the cloud**
 
 * Google's [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) (Colab) is a good free resource for collaborative, cloud-based computing. Using Python and Jupyter notebooks in Colab is a perfect place to start.
-* [CoCalc][1] (formerly SageMathCloud)
 
 A big plus associated with running Python and Jupyter notebooks in the cloud is that you don't need to install anything on your local machine. The downsides can be that you need to be connected to the internet, at times it can be slower, and that you have reduced freedom and customization available to you in your workflow.
 
@@ -37,7 +36,7 @@ Note, to view the interactive plots in the example "03c Derivatives-Boken.ipynb"
 
 - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 - [A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
-- [Python Weekly][23] - a weekly email newsletter "featuring curated news, articles, new releases, jobs etc related to Python." 
+- [Python Weekly][23] - a weekly email newsletter "featuring curated news, articles, new releases, jobs etc related to Python."
 
 **Plotting**
 

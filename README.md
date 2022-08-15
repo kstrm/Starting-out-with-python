@@ -20,15 +20,13 @@ A big plus associated with running Python and Jupyter notebooks in the cloud is 
 
 ## The examples
 
-Above are a few Jupyter notebooks with examples that highlight basic commands in Numpy, Scipy, and Matplotlib for simple procedures such as:
+The folders in this repository contain a few Jupyter notebooks with examples that highlight basic commands in Numpy, Scipy, and Matplotlib for simple procedures such as:
 * indexing, arrays, and loops
 * ways to approximate a derivative
 * solving functions
 * plotting
 
-You can view the files simply by clicking on the file link in the directory above. To run the notebooks, you will either need to use a cloud-based computing service (such as CoCalc, see below), or you will need to install a python distribution on your computer (below you will find information on how to install python on your local machine). If you will be using python regularly, then I strongly suggest you install it on your local machine.
-
-Note, to view the interactive plots in the example "03c Derivatives-Boken.ipynb", you will need to view it through the [nbviewer][7] at Jupyter.org. You can do so by [clicking here][8], or by clicking on the file of interest, copying the url from your browser, and then pasting it into the [nbviewer][9].
+You can view the files simply by clicking on the file link in the directory above. To run the notebooks, you will either need to use Colab, or you will need to install a python distribution on your computer (below you will find information on how to install python on your local machine). If you will be using python regularly, then I suggest you install it on your local machine.
 
 ## Other Helpful Links
 

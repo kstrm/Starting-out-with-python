@@ -40,7 +40,6 @@ You can view the files simply by clicking on the file link in the directory abov
 
 * Basic… start here: [Matplotlib][10]. For more examples see [Chapter 4][11] Robert Johansson's Numerical Python.
 * [Matplotlib YouTube tutorial series](https://pythonweekly.us2.list-manage.com/track/click?u=e2e180baf855ac797ef407fc7&id=02db959750&e=510e6adfe6)
-* Interactive plotting: [Bokeh][12]
 * Plotting Pandas dataframes: [link][13]
 * [How to Make a Scatter Plot in Python using Seaborn](https://www.marsja.se/how-to-make-a-scatter-plot-in-python-using-seaborn/)
 
@@ -54,7 +53,6 @@ You can view the files simply by clicking on the file link in the directory abov
 	* [Plotting][19]
 * [Scipy Lecture Notes: One document to learn numerics, science, and data with Python][20]
 * [Pandas Tutorial: DataFrames in Python][21]
-* [Basic features of SageMathCloud][22] (note.. the video is long ≈ 1 hr)
 
 [1]:	https://cocalc.com
 [2]:	http://ipython.org/
@@ -67,7 +65,6 @@ You can view the files simply by clicking on the file link in the directory abov
 [9]:	http://nbviewer.jupyter.org/
 [10]:	https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
 [11]:	https://github.com/jrjohansson/numerical-python-book-code/blob/master/ch04-code-listing.ipynb
-[12]:	http://bokeh.pydata.org/en/latest/
 [13]:	http://pandas.pydata.org/pandas-docs/stable/visualization.html
 [14]:	http://stackabuse.com/python-tutorial-for-absolute-beginners/
 [15]:	https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.A793bLk
@@ -77,5 +74,4 @@ You can view the files simply by clicking on the file link in the directory abov
 [19]:	https://github.com/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
 [20]:	http://www.scipy-lectures.org
 [21]:	https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#gs.D1109lg
-[22]:	https://www.youtube.com/watch?v=_ff2HdME8MI
 [23]:	https://www.pythonweekly.com

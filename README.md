@@ -28,6 +28,10 @@ The folders in this repository contain a few Jupyter notebooks with examples tha
 
 You can view the files simply by clicking on the file link in the directory above. To run the notebooks, you will either need to use Colab, or you will need to install a python distribution on your computer (below you will find information on how to install python on your local machine). If you will be using python regularly, then I suggest you install it on your local machine.
 
+To use Colab, go to [https://colab.research.google.com/](https://colab.research.google.com/). If an upload dialogue pops up, then click on the GitHub tab, past in this repository address, https://github.com/kstrm/Starting-out-with-python, and then select the "open notebook in a new tab" icon to the right of the notebook you wish to copy. Doing this will open it in Colab. Once it is open, click on the "Copy to Drive" button to make a copy that you can edit and save in our Google Drive. The notebook will be saved in the folder "Colab Notebooks." The folder will be automatically created in your drive it is not there already.
+
+To you use your local machine you can either download the individual file or clone or download the repository as a whole.
+
 ## Other Helpful Links
 
 **General**

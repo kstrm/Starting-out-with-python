@@ -18,15 +18,28 @@ A big plus associated with running Python and Jupyter notebooks in the cloud is 
 * To use, you can run/execute python commands with the terminal, an [ipython terminal][2], the [Spyder IDE][3] (a Matlab like environment), or my favorite (for short computations and data analysis) - [Jupyter notebooks][4] and [JupyterLab][5]. The examples in this repository are Jupyter notebooks.
 * If you are looking for a text editor, I suggest taking a look at [Atom][6].
 
-## The examples
+## Example Notebooks
 
-The folders in this repository contain a few Jupyter notebooks with examples that highlight basic commands in Numpy, Scipy, and Matplotlib for simple procedures such as:
-* indexing, arrays, and loops
-* ways to approximate a derivative
-* solving functions
-* plotting
+### Examples-Starting-Out
 
-You can view the files simply by clicking on the file link in the directory above. To run the notebooks, you will either need to use Colab, or you will need to install a python distribution on your computer (below you will find information on how to install python on your local machine). If you will be using python regularly, then I suggest you install it on your local machine.
+The notebooks in this folder highlight basic commands in Numpy, Scipy, and Matplotlib for simple procedures such as:
+* Indexing, arrays, and loops
+* Solving functions or implicit equations
+* Plotting
+* Simple methods for approximating a derivative
+
+### Examples-Working-with-Data
+
+The notebooks in this folder explore 15 minute and annual flow data from a USGS gaging station on the New River near Radford, VA ([USGS gage 03171000 NEW RIVER AT RADFORD, VA](https://waterdata.usgs.gov/nwis/uv?site_no=03171000)). This set of notebooks focuses on using Pandas and demonstrates simple data analysis operations such as:
+* Reading in csv files
+* Working with DataFrames
+* Filtering
+* Plotting
+* Regression
+
+### Running the examples
+
+You can view the files simply by clicking on the file link in the directory above. To run the notebooks, you will either need to use Colab, or you will need to install a python distribution on your computer (below you will find information on how to install python on your local machine). If you will be using Python regularly, then I suggest you install it on your local machine.
 
 To use Colab, go to [https://colab.research.google.com/](https://colab.research.google.com/). If an upload dialogue pops up, then click on the GitHub tab, past in this repository address, https://github.com/kstrm/Starting-out-with-python, and then select the "open notebook in a new tab" icon to the right of the notebook you wish to copy. Doing this will open it in Colab. Once it is open, click on the "Copy to Drive" button to make a copy that you can edit and save in our Google Drive. The notebook will be saved in the folder "Colab Notebooks." The folder will be automatically created in your drive it is not there already.
 

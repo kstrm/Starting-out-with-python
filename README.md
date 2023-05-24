@@ -49,6 +49,7 @@ To you use your local machine you can either download the individual file or clo
 
 **General**
 
+- [Learn Python with Jupyter](https://www.learnpythonwithjupyter.com/)
 - [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 - [A Gentle Visual Intro to Data Analysis in Python Using Pandas](https://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
 - [Python Weekly][23] - a weekly email newsletter "featuring curated news, articles, new releases, jobs etc related to Python."

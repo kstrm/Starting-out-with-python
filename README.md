@@ -16,7 +16,7 @@ A big plus associated with running Python and Jupyter notebooks in the cloud is 
 
 * Continuum Analytics “Anaconda” distribution: https://www.anaconda.com/download
 * To use, you can run/execute python commands with the terminal, an [ipython terminal][2], the [Spyder IDE][3] (a Matlab like environment), or my favorite (for short computations and data analysis) - [Jupyter notebooks][4] and [JupyterLab][5]. The examples in this repository are Jupyter notebooks.
-* If you are looking for a text editor, I suggest taking a look at [Atom][6].
+* If you are looking for a text editor, I suggest taking a look at [VS Code](https://code.visualstudio.com/).
 
 ## Example Notebooks
 
@@ -77,7 +77,6 @@ To you use your local machine you can either download the individual file or clo
 [3]:	https://www.spyder-ide.org/
 [4]:	http://jupyter.org/
 [5]:	https://jupyterlab.readthedocs.io/en/stable/
-[6]:	https://atom.io/
 [7]:	http://nbviewer.jupyter.org/
 [8]:	http://nbviewer.jupyter.org/github/kstrm/Starting-out-with-python/blob/master/03c%20Derivatives-Boken.ipynb
 [9]:	http://nbviewer.jupyter.org/
